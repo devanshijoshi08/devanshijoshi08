@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 - Data Science
 
 ### Get in Touch
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/devanshijoshi08/) or [Twitter](https://twitter.com/devanshijoshi08) if you have any questions or would like to collaborate on a project.
+Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/devanshi-joshi-a524b8194) if you have any questions or would like to collaborate on a project.
 
 Citations:
 [1] https://github.com/devanshijoshi08
