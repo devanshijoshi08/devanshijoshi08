@@ -23,12 +23,5 @@ Here are some of the projects I've worked on:
 - Data Science
 
 ### Get in Touch
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/devanshi-joshi-a524b8194) if you have any questions or would like to collaborate on a project.
+Feel free to reach out to me on [Email](devanshisjoshi.09@gmail.com) if you have any questions or would like to collaborate on a project.
 
-Citations:
-[1] https://github.com/devanshijoshi08
-[2] https://www.sitepoint.com/github-profile-readme/
-[3] https://docs.github.com/en/rest/repos/contents
-[4] https://github.com/matiassingers/awesome-readme
-[5] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[6] https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
