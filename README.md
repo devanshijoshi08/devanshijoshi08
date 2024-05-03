@@ -1,5 +1,3 @@
-Here is a suggested content for the README file on your GitHub profile, devanshijoshi08:
-
 ## Hi there, I'm Devanshi Joshi 👋
 
 ### About Me
