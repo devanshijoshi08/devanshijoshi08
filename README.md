@@ -1,7 +1,7 @@
 ## Hi there, I'm Devanshi Joshi 👋
 
 ### About Me
-I'm a passionate data enthusiast based in Canada. I love exploring new technologies and applying them to solve real-world problems. My areas of interest include data visualization, data analysis, machine learning, natural language processing, computer vision, and predictive analytics.
+I'm a passionate data enthusiast. I love exploring new technologies and applying them to solve real-world problems. My areas of interest include data visualization, data analysis, machine learning, natural language processing, computer vision, and predictive analytics.
 
 ### My Projects
 Here are some of the projects I've worked on:
